@@ -1,5 +1,7 @@
 # micro-app-module-federation-template
 
+[笔记](./NOTE.md)
+
 安装
 
 ```bash
